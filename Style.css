@@ -29,3 +29,21 @@ body {
     color: green;
     margin-right: 5px;
 }
+
+.part-third-title {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.part-third {
+    justify-content: center;
+    display: flex;
+}
+
+.part-third-2 {
+    padding-left: 100px;
+}
+
+.part-third-3 {
+    padding-left: 100px;
+}
