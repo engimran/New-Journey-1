@@ -47,3 +47,16 @@ body {
 .part-third-3 {
     padding-left: 100px;
 }
+
+.part-four {
+    background-image: url('watch.png');
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 100px;
+}
+
+.footer-part {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
